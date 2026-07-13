@@ -127,6 +127,6 @@ The dataset contains four years of retail sales data, including product categori
 
 Bachelor of Technology (Computer Science and Engineering)
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/22A31A05A6
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/samuel-guttula/

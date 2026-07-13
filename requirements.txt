@@ -1,0 +1,25 @@
+# Core data handling
+pandas>=2.2
+numpy>=1.26
+
+# Notebook - plotting
+matplotlib>=3.8
+seaborn>=0.13
+
+# Notebook - forecasting models (Task 3)
+statsmodels>=0.14
+prophet>=1.1
+xgboost>=2.0
+
+# Notebook - anomaly detection & clustering (Task 5, 6)
+scikit-learn>=1.4
+
+# Dashboard (Task 7)
+streamlit>=1.38
+plotly>=5.22
+
+# Note: Prophet and statsmodels are only used in analysis.ipynb, not in app.py.
+# If Prophet has trouble building on Streamlit Community Cloud (its Stan
+# backend occasionally needs extra build tools), it's safe to remove the
+# prophet line just for the deployed app - app.py only needs pandas, numpy,
+# streamlit, plotly, xgboost and scikit-learn.
